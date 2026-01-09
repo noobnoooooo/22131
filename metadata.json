@@ -1,0 +1,8 @@
+{
+  "name": "乐善市南慈善平台",
+  "description": "基于uni-app/React设计的社区慈善捐赠与公示平台，包含项目浏览、在线捐赠、捐赠证书及公益公示等功能。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
